@@ -1,0 +1,1000 @@
+ 1008  pip3 freeze
+ 1009  pip3 freeze | greb dlib
+ 1010  pip3 freeze | grep dlib
+ 1011  clooudcompare -help
+ 1012  cloudcompare -help
+ 1013  CloudCompare -help
+ 1014  CloudCompare -h
+ 1015  CloudCompare -help
+ 1016  CloudCompare -help -SILENT
+ 1017  CloudCompare -SILENT -help
+ 1018  Slicer
+ 1019  Slicer
+ 1020  gedi .bashrc 
+ 1021  gedit .bashrc 
+ 1022  Slicer
+ 1023  Slicer -h
+ 1024  Slicer
+ 1025  Slicer -verbose
+ 1026  Slicer -h
+ 1027  Slicer --launcher-verbose 
+ 1028  Slicer -h
+ 1029  Slicer --verbose-module-discovery
+ 1030  soffice --headless --convert-to pdf lecture\ 1\ KIE4021.pptx 
+ 1031  5/6
+ 1032  a=5/6
+ 1033  a
+ 1034  =5/6
+ 1035  htop
+ 1036  x-dg open /run/user/1000/doc/d6573544/
+ 1037  xdg-open /run/user/1000/doc/d6573544/
+ 1038  gedit planToGetFull.md
+ 1039  htop
+ 1040  tracker reset --hard
+ 1041  htop
+ 1042  ping google.com
+ 1043  ping www.google.com
+ 1044  ping http://www.google.com
+ 1045  ping http:\\www.google.com
+ 1046  ping google.com
+ 1047  ping 192.168.10
+ 1048  ping 10.133.145.254
+ 1049  ping 
+ 1050  ping 192.168.10.1
+ 1051  ipconfig
+ 1052  ip
+ 1053  python3
+ 1054  Zootero
+ 1055  Zotero
+ 1056  Slicer
+ 1057  xdg-open /home/raouf/snap/okular/109/
+ 1058  ping google.com
+ 1059  ping 192.0.0.168
+ 1060  python
+ 1061  pyhton
+ 1062  python3
+ 1063  wich python
+ 1064  which python
+ 1065  sudo apt-get install -y python3-ipykernel
+ 1066  sudo apt install ipykernel
+ 1067  sudo apt install python3-ipykernel
+ 1068  sudo apt update
+ 1069  sudo apt upgrade
+ 1070  sudo apt update
+ 1071  pip install --upgrade ipykernel
+ 1072  sudo apt uto-remove jupyter
+ 1073  sudo apt auto-remove jupyter
+ 1074  pip3 install jupyter ipython
+ 1075  jupyter notebook
+ 1076  apt search jupyter
+ 1077  pip3 install jupyter-notebook ipython
+ 1078  pip3 install jupyternotebook ipython
+ 1079  pip3 install jupyternotebook
+ 1080  pip3 install jupyter notebook
+ 1081  jupyter
+ 1082  jupyter -help
+ 1083  jupyter -h
+ 1084  jupyter notebook
+ 1085  jupyter troubleshoot
+ 1086  sudo apt auto-remove jupyter
+ 1087  pip3 -h
+ 1088  pip3 -h |grep dele
+ 1089  pip3 -h |grep del
+ 1090  pip3 -h |grep remo
+ 1091  pip3 uninstall jupyter
+ 1092  pip install notebook
+ 1093  jupyter notebook
+ 1094  pip3 install jupyterlab
+ 1095  which python
+ 1096  pip3 -h
+ 1097  pip
+ 1098  pip3
+ 1099  pip install jupyterlab
+ 1100  pip version
+ 1101  pip -version
+ 1102  pip -v
+ 1103  which python
+ 1104  cd |which python
+ 1105  cd which python
+ 1106  which python| cd
+ 1107  which python|cd
+ 1108  cd /usr/bin/python
+ 1109  cd /usr/bin/
+ 1110  ls -la
+ 1111  ls -la |grep pip
+ 1112  cd pip3
+ 1113  pip -V
+ 1114  pip3 -V
+ 1115  pip install jupyterlab
+ 1116  /home/raouf/Documents/Tools/Slicer-4.11.20200930-linux-amd64/bin/./python-real -m pip install --upgrade pip
+ 1117  pip install --upgrade pip
+ 1118  pip install jupyterlab
+ 1119  jupyter-lab
+ 1120  pip uninstall pyzmq
+ 1121  conda uninstall pyzmq
+ 1122  apt upgared pip
+ 1123  apt -upgared pip
+ 1124  apt --upgared pip
+ 1125  sudo apt install --upgared pip
+ 1126  sudo apt install --upgrade pip
+ 1127  sudo autoremove jupyter-lab
+ 1128  sudo apt autoremove jupyter-lab
+ 1129  sudo apt autoremove jupyter
+ 1130  sudo pip uninstall jupyter
+ 1131  sudo pip3 uninstall jupyter
+ 1132  jupyter
+ 1133  pip uninstall pyzmq
+ 1134  pip install pyzmq
+ 1135  pip install pyzmq -upgrade
+ 1136  pip install -h
+ 1137  sudo apt search pip
+ 1138  sudo apt install -upgrade pip
+ 1139  sudo apt install --upgrade pip
+ 1140  conda
+ 1141  sudo apt install python3-pip
+ 1142  sudo apt auto-remove python3-pip
+ 1143  sudo apt install python3-pip
+ 1144  pip
+ 1145  pip -v
+ 1146  pip3 -v
+ 1147  pip3 -V
+ 1148  jupyter
+ 1149  sudo apt auto-remove jupyter
+ 1150  sudo apt install jupyter
+ 1151  sudo apt install jupyter-lab
+ 1152  pip install jupyterlab
+ 1153  jupyterlab
+ 1154  jupyter-lab
+ 1155  pip uninstall zmq
+ 1156  pip install pyzmq
+ 1157  pip uninstall pyzmq
+ 1158  pip install --upgrade pyzm1
+ 1159  pip install --upgrade pyzmq
+ 1160  jupyter-lab
+ 1161  jupyter notebook
+ 1162  cd
+ 1163  ipykernel -help
+ 1164  apt search python3-ipykernel
+ 1165  python3 -m ipykernel install --user --name=TF2_pointnet_test
+ 1166  jupyter notebook
+ 1167  ls -la
+ 1168  chmod g+w filename
+ 1169  chmod g+w bin -R
+ 1170  sudo chmod g+w bin -R
+ 1171  ls -la
+ 1172  sudo chmod g+wxr bin -R
+ 1173  ls -la
+ 1174  sudo chmod o+wxr bin -R
+ 1175  ls -la
+ 1176  sudo chmod o+wxr gwxr lib -R
+ 1177  sudo chmod o+wxr g+wxr lib -R
+ 1178  sudo chmod o+wxr lib -R
+ 1179  sudo chmod g+wxr lib -R
+ 1180  ls -la
+ 1181  sudo apt search steam
+ 1182  sudo apt auto-remove steam
+ 1183  sudo apt update
+ 1184  sudo apt upgrade
+ 1185  jupyter notebook
+ 1186  matlab
+ 1187  export ROS_HOSTNAME
+ 1188  export PYTHONPATH
+ 1189  echo %PYTHONPATH%
+ 1190  gedit
+ 1191  echo PYTHONPATH
+ 1192  echo %PYTHONPATH
+ 1193  echo $PYTHONPATH
+ 1194  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+ 1195  sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+ 1196  sudo apt update
+ 1197  sudo apt install ros-noetic-desktop-full
+ 1198  roscore
+ 1199  apt search ros-noetic
+ 1200  source /opt/ros/noetic/setup.bash
+ 1201  echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+ 1202  source ~/.bashrc
+ 1203  gedit ~/.bashrc
+ 1204  sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
+ 1205  printenv | grep ROS
+ 1206  source /opt/ros/noetic/setup.bash
+ 1207  cd 
+ 1208  mkdir -p ~/catkin_ws/src
+ 1209  cd ~/catkin_ws/
+ 1210  catkin_make
+ 1211  catkin_make -DPYTHON_EXECUTABLE=/usr/bin/python3
+ 1212  source devel/setup.bash
+ 1213  ls -la devel
+ 1214  echo $ROS_PACKAGE_PATH
+ 1215  sudo apt-get install ros-noetic-ros-tutorials
+ 1216  rospack find roscpp
+ 1217  asds
+ 1218  asd
+ 1219  sas
+ 1220  dsa
+ 1221  dsasa
+ 1222  das
+ 1223  sd
+ 1224  ads
+ 1225  sd
+ 1226  as
+ 1227  clear
+ 1228  python3
+ 1229  clear
+ 1230  ping 10.121.128.2
+ 1231  sudo apt install bashcrawl
+ 1232  cd
+ 1233  mkdir games
+ 1234  cd games/
+ 1235  git clone https://gitlab.com/slackermedia/bashcrawl.git bashcrawl
+ 1236  xdg-open .
+ 1237  cd bashcrawl/
+ 1238  cat scroll
+ 1239  cd entrance/
+ 1240  cat scroll
+ 1241  ls
+ 1242  cd cellar/
+ 1243  ls
+ 1244  cd treaure
+ 1245  cat treaure
+ 1246  cat treasure 
+ 1247  ls
+ 1248  cd armoury/
+ 1249  ls
+ 1250  cat treasure 
+ 1251  cat scroll 
+ 1252  ping google
+ 1253  ping google.com
+ 1254  cd ..
+ 1255  ./treasure 
+ 1256  sudo apt install h5dump
+ 1257  sudo apt install hdf5-tools
+ 1258  h5dump /home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/pointnet_TF2_Converted/tf2/part_seg/hdf5_data/ply_data_test0.h5
+ 1259  h5dump '/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/pointnet_TF2_Converted/tf2/plane_detection/data/hdf5_data/data_testing.h5'
+ 1260  h5dump '/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/pointnet_TF2_Converted/tf2/part_seg/hdf5_data/ply_data_test0.h5'
+ 1261  sudo apt auto-remove hdf5view
+ 1262  sudo apt-get remove hdfview
+ 1263  sudo apt-get install hdfview
+ 1264  sudo apt-get remove --auto-remove hdfview
+ 1265  sudo apt-get purge hdfview
+ 1266  sudo apt-get purge steam
+ 1267  wget https://shapenet.cs.stanford.edu/media/shapenet_part_seg_hdf5_data.zip
+ 1268  unzip shapenet_part_seg_hdf5_data.zip
+ 1269  wget 
+ 1270  wget -h | grep cert
+ 1271  wget --no-check-certificate https://shapenet.cs.stanford.edu/media/shapenet_part_seg_hdf5_data.zip
+ 1272  gedit filelist.txt
+ 1273  gedit README.md
+ 1274  sudo rpm -i hdfview-3.1.2-1.x86_64.rpm
+ 1275  sudo apt install alsa-lib glibc libX11 libXau libXext libXi libXrender libXtst libxcb xdg-utils zli
+ 1276  sudo apt install alsa-lib glibc libX11 libXau libXext libXi libXrender libXtst libxcb xdg-utils zlib
+ 1277  sudo apt update
+ 1278  jupyter notebooksudo rpm -i hdfview-3.1.2-1.x86_64.rpm
+ 1279  sudo rpm -i hdfview-3.1.2-1.x86_64.rpm
+ 1280  sudo apt install alsa-lib
+ 1281  yum --nogpgcheck localinstall hdfview-3.1.2-1.x86_64.rpm
+ 1282  sudo apt install yym
+ 1283  sudo apt install yum
+ 1284  sudo snap install yum
+ 1285  sudo apt-get install hdfview
+ 1286  sudo apt-get search hdfview
+ 1287  sudo apt search hdfview
+ 1288  sudo apt-get install hdfview
+ 1289  sudo apt auto-remove install hdfview
+ 1290  sudo apt auto-remove hdfview
+ 1291  sudo rpm -i hdfview-3.1.2-1.x86_64.rpm
+ 1292  sudo apt-get install -y libhdf5-dev
+ 1293  sudo apt install alien
+ 1294  sudo alien -i hdfview-3.1.2-1.x86_64.rpm
+ 1295  sudo /opt/hdfview/HDFView
+ 1296  ls /opt/hdfview/HDFView
+ 1297  ls /opt/hdfview/
+ 1298  ls /opt/hdfview/ -la
+ 1299  ls /opt/hdfview/bin -la
+ 1300  sudo ls /opt/hdfview/bin -la
+ 1301  sudo /opt/hdfview/bin/HDFView
+ 1302  /opt/hdfview/bin/HDFView
+ 1303  sudo /opt/hdfview/bin/HDFView
+ 1304  sudo xdg-open /opt/hdfview/bin/HDFView
+ 1305  sudo xdg-open /opt/hdfview/bin/
+ 1306  /opt/hdfview/bin/HDFView
+ 1307  sudo /opt/hdfview/bin/HDFView
+ 1308  alien -i hdfview-3.1.2-1.x86_64.rpm
+ 1309  /opt/hdfview/bin/HDFView -h
+ 1310  sudo /opt/hdfview/bin/HDFView -h
+ 1311  sudo xdg-open /opt/hdfview/bin/HDFView
+ 1312  sudo xdg-open /opt/hdfview/bin
+ 1313  sudo cd /opt/hdfview/bin
+ 1314  cd /opt/hdfview/bin
+ 1315  /opt/hdfview/bin/HDFView
+ 1316  CloudCompare -O ./Skin1_norm_face_labelled.asc -C_EXPORT_FMT ASC -SEP COMMA -SS RANDOM 2048
+ 1317  CloudCompare -O './Skin1_norm_face_labelled.asc' -C_EXPORT_FMT ASC -SEP COMMA -SS RANDOM 2048
+ 1318  CloudCompare -O Skin1_norm_face_labelled.asc
+ 1319  cd ..
+ 1320  CloudCompare -O Skin1_norm_face_labelled.asc
+ 1321  clear
+ 1322  cd /home/raouf/Documents/UM/SEM6/FYP_3D/Datasets/custom-picked-CIA/Segmentation_models/Skin_only/Skin1
+ 1323  CloudCompare -O Skin1_norm_face_labelled.asc -SS RANDOM 2048
+ 1324  CloudCompare -O Skin1_norm_face_labelled.asc -SS RANDOM 2048 -CLEAR_ALL
+ 1325  CloudCompare -C_EXPORT_FMT ASC
+ 1326  CloudCompare -O Skin1_norm_face_labelled.asc -SS RANDOM 2048
+ 1327  CloudCompare -O Skin1_norm_face_labelled.asc -C_EXPORT_FMT ASC-SS RANDOM 2048 
+ 1328  CloudCompare -O Skin1_norm_face_labelled.asc -C_EXPORT_FMT ASC -SS RANDOM 2048 
+ 1329  CloudCompare -O Skin1_norm_face_labelled.asc -C_EXPORT_FMT ASC -SEP COMMA -SS RANDOM 2048 
+ 1330  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1331  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1332  python3
+ 1333  which python3
+ 1334  python3
+ 1335  notebook python3
+ 1336  jupyter notebook
+ 1337  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1338  python -m ipykernel install --user --name=TF_pointnet_test
+ 1339  deactivate
+ 1340  python -m ipykernel install --user --name=nlp
+ 1341  python -m ipykernel install --user --name=TF_pointnet_test
+ 1342  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1343  jupyter
+ 1344  jupyter-lab
+ 1345  jupyter notebool
+ 1346  jupyter notebook
+ 1347  python3
+ 1348  python -m ipykernel install --user --name=TF_pointnet_test
+ 1349  pip install --user ipykernel
+ 1350  pip install  ipykernel
+ 1351  python -m ipykernel install --name=TF_pointnet_test2
+ 1352  sudo python -m ipykernel install --name=TF_pointnet_test2
+ 1353  pip install ipykernel
+ 1354  /home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/python -m pip install --upgrade pip
+ 1355  '/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/python' -m pip install --upgrade pip
+ 1356  pip install ipykernel
+ 1357  sudo python -m ipykernel install --name=TF_pointnet_test2
+ 1358  ipykernel
+ 1359  python -m ipykernel install --user --name=<my_env_name>
+ 1360  python -m ipykernel install --user --name=TF_pointnet_test2
+ 1361  jupyter notebook
+ 1362  # gedit
+ 1363  gedit make100per1.bash
+ 1364  source make100per1.bash
+ 1365  gedit make100per1.bash
+ 1366  source make100per1.bash
+ 1367  gedit make100per1.bash
+ 1368  source make100per1.bash
+ 1369  gedit ./bashrc
+ 1370  ls -la
+ 1371  gedit ~/.bashrc
+ 1372  clear 
+ 1373  python3
+ 1374  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1375  python3
+ 1376  python3 train.py
+ 1377  cd part_seg/
+ 1378  python3 train.py 
+ 1379  source make100per1.bash
+ 1380  source make100per1.bash 5
+ 1381  print(a)
+ 1382  print(1)
+ 1383  print('1')
+ 1384  sh make100per1.bash 5
+ 1385  sh make100per1.sh 5
+ 1386  bash make100per1.sh 5
+ 1387  ./make100per1.sh 5
+ 1388  sudo ./make100per1.sh 5
+ 1389  ./make100per1.sh 5
+ 1390  ./make100per1.sh
+ 1391  cat ./make100per1.sh
+ 1392  bash ./make100per1.sh 5
+ 1393  sh make100per1.sh 5
+ 1394  gedit make100per1.sh
+ 1395  sh make100per1.sh 5
+ 1396  declare -i y=5
+ 1397  y
+ 1398  $y
+ 1399  echo $y
+ 1400  sh make100per1.sh $echo
+ 1401  sh make100per1.sh $y
+ 1402  sh make100per1.sh 5
+ 1403  declare -i y=5
+ 1404  sh make100per1.sh $y
+ 1405  bash make100per1.sh
+ 1406  source make100per1.sh
+ 1407  source make100per1.sh 2
+ 1408  bash make100per1.sh 2
+ 1409  bash make100per1.sh
+ 1410  bash make100per1.sh 3
+ 1411  bash make100per1.sh 5
+ 1412  htop
+ 1413  bash make100per1.sh 5
+ 1414  bash make100per1.bash 5
+ 1415  echo "${PWD##*/}"
+ 1416  "${PWD
+ 1417  bash make100per1.bash 5
+ 1418  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1419  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1420  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1421  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1422  python3 train.py
+ 1423  pythone train.py
+ 1424  python3 train.py
+ 1425  python3 test.py
+ 1426  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1427  python3
+ 1428  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1429  python3 test.py
+ 1430  python3
+ 1431  cd ..
+ 1432  cd util
+ 1433  cd ./utils/
+ 1434  python3
+ 1435  jupyter noteb
+ 1436  jupyter notebook
+ 1437  cd
+ 1438  jupyter notebook
+ 1439  python3
+ 1440  jupyter notebook
+ 1441  HDFView
+ 1442  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1443  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1444  gedit 5_FPS_test_data.txt
+ 1445  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1446  python3 test.py
+ 1447  python3 test.py --model_path train_results/trained_models/epoch_7.ckpt
+ 1448  python3 test.py --model_path train_results/trained_models/epoch_5.ckpt
+ 1449  python3 test.py --model_path train_results/trained_models/epoch_1.ckpt
+ 1450  python3 test.py --model_path train_results/trained_models/epoch_2.ckpt
+ 1451  python3 test.py --model_path train_results/trained_models/epoch_8.ckpt
+ 1452  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1453  python3 train.py
+ 1454  clear all
+ 1455  clear
+ 1456  python3 train.py
+ 1457  htop
+ 1458  tracker reset --hard
+ 1459  python3
+ 1460  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1461  python3 train.py
+ 1462  source "/home/raouf/Documents/UM/SEM6/FYP_3D/practical/trying TF and Pointnet/TF_pointnet_test/bin/activate"
+ 1463  python3
+ 1464  htop
+ 1465  source SETUP.SH 
+ 1466  ./ads
+ 1467  export HPEESOF_DIR=/home/raouf/Documents/Tools/ADS_Keysight
+ 1468  setenv PATH $HPEESOF_DIR/bin:$PATH
+ 1469  echo $PATH
+ 1470  export PATH="$HPEESOF_DIR/bin:$PATH"
+ 1471  echo $PATH
+ 1472  cd ..
+ 1473  cd
+ 1474  gedit ./.bashrc 
+ 1475  ads
+ 1476  xdg-open /home/raouf/Documents/Tools/ADS_Keysight/bin/
+ 1477  ./SETUP.SH 
+ 1478  nm-tool | grep -i gateway | xargs echo | cut -d' ' -f2
+ 1479  route -n
+ 1480  sudo apt install route
+ 1481  route
+ 1482  sudo apt install net-tools
+ 1483  route
+ 1484  sudo apt install ./clementine_1.3.1-jessie_amd64.deb 
+ 1485  sudo add-apt-repository ppa:me-davidsansome/clementine
+ 1486  sudo apt-get update
+ 1487  sudo snap install clementine
+ 1488  matlab
+ 1489  ./activate_matlab.sh 
+ 1490  matlab
+ 1491  .//usr/local/MATLAB/R20XXx/bin/activate_matlab.sh
+ 1492  /usr/local/MATLAB/R20XXx/bin/activate_matlab.sh
+ 1493  ./usr/local/MATLAB/R20XXx/bin/
+ 1494  /usr/local/MATLAB/R2020b/bin/activate_matlab.sh
+ 1495  cd /usr/local/MATLAB/R2020b/
+ 1496  cd /usr/
+ 1497  cd /usr/local
+ 1498  ls -la
+ 1499  htop
+ 1500  tracker reset --hard
+ 1501  ./activate_matlab.sh 
+ 1502  matlab
+ 1503  matlab
+ 1504  Slicer
+ 1505  make
+ 1506  make .
+ 1507  ./make
+ 1508  ./config
+ 1509  ./configure
+ 1510  ./bootsrap
+ 1511  ./bootstrap
+ 1512  ./configure
+ 1513  make
+ 1514  cd ..
+ 1515  git submodule init
+ 1516  cd ..
+ 1517  git submodule init
+ 1518  cd qucs
+ 1519  git submodule init
+ 1520  make
+ 1521  cd qucs
+ 1522  make
+ 1523  cd ..
+ 1524  cd qucs-core
+ 1525  ./bootstrap
+ 1526  ./configure
+ 1527  make
+ 1528  sudo make
+ 1529  cd 1ucs
+ 1530  cd qucs
+ 1531  ./bootstrap
+ 1532  ./configure
+ 1533  make
+ 1534  cd .
+ 1535  cd ..
+ 1536  make
+ 1537  cd ..
+ 1538  make
+ 1539  cd qucs
+ 1540  cmake
+ 1541  make .
+ 1542  cmake
+ 1543  cmake ,
+ 1544  cmake .
+ 1545  make
+ 1546  sudo make install
+ 1547  ./configure
+ 1548  make
+ 1549  make install
+ 1550  git clone git://github.com/Qucs/qucs.git
+ 1551  snap remove qucs
+ 1552  ./activate_matlab.sh 
+ 1553  matlab
+ 1554  xdg-open /home/raouf/.matlab/R2020b_licenses/license_raouf-Latitude-E6430_40766490_R2020b.lic
+ 1555  xdg-open /home/raouf/.matlab/R2020b_licenses/
+ 1556  ls /usr/local/MATLAB/R20XXx/bin/
+ 1557  sudo ls /usr/local/MATLAB/R20XXx/bin/
+ 1558  sudo ls /usr/local/MATLAB/
+ 1559  cd /usr/local/MATLAB/
+ 1560  cd /usr/
+ 1561  cd local/
+ 1562  ls -la
+ 1563  cd /usr/local/MATLAB/
+ 1564  matlab
+ 1565  xdg-open /home/raouf/Videos/4K Video Downloader
+ 1566  xdg-open '/home/raouf/Videos/4K Video Downloader'
+ 1567  matlab
+ 1568  route
+ 1569  router
+ 1570  route
+ 1571  ip route
+ 1572  tracker reset --hard
+ 1573  ip router
+ 1574  ip route
+ 1575  ping google.com
+ 1576  ping 10.215.255.254
+ 1577  htop
+ 1578  matlab
+ 1579  Slicer
+ 1580  h5view
+ 1581  gedit ./.bashrc
+ 1582  HDFView
+ 1583  source ./facial_landmark_py3/bin/activate
+ 1584  python facial_landmarks.py --shape-predictor Data/Model_Predictor/shape_predictor_68_face_landmarks.dat --image Data/imgs/Test4.png
+ 1585  python3
+ 1586  python3 
+ 1587  import Task3_facial_landmarks as util
+ 1588  python3
+ 1589  source facial_landmark/bin/activate
+ 1590  deactivate
+ 1591  source facial_landmark_py3/bin/activate
+ 1592  python3
+ 1593  source facial_landmark_py3/bin/ativate
+ 1594  source facial_landmark_py3/bin/activate
+ 1595  python3
+ 1596  Slicer
+ 1597  source TF_pointnet_test/bin/activate
+ 1598  cd pointnet_TF2_Converted/
+ 1599  cd tf2/
+ 1600  cd part_seg/
+ 1601  python3 test.py 
+ 1602  Slicer
+ 1603  matlab
+ 1604  htop
+ 1605  tracker reset --hard
+ 1606  ./start-tor-browser.desktop
+ 1607  ./start-tor-browser.desktop --register-app
+ 1608  sudo snap install micropad
+ 1609  sudo snap install drawio
+ 1610  sudo apt update
+ 1611  source activate
+ 1612  deactivate
+ 1613  source activate
+ 1614  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1615  python3
+ 1616  pip install pyntcloud
+ 1617  lear
+ 1618  clear
+ 1619  python3
+ 1620  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1621  /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/python3 /home/raouf/Documents/UM/SEM6/FYP_3D/practical/Random_Geometric_Sampling/Unorganized.py
+ 1622  clear
+ 1623  /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/python3 /home/raouf/Documents/UM/SEM6/FYP_3D/practical/Random_Geometric_Sampling/Unorganized.py
+ 1624  python -m ipykernel install --user --name facial_landmark_py3 --display-name "facial_landmark_py3"
+ 1625  pip install ipykernel
+ 1626  python -m ipykernel install --user --name facial_landmark_py3 --display-name "facial_landmark_py3"
+ 1627  pip install pythreejs threejspyvista
+ 1628  pip install pythreejs
+ 1629  pip install threejs
+ 1630  pip install pyvista
+ 1631  pip install matplotlib
+ 1632  pip install ipywidgets
+ 1633  pip install h5py
+ 1634  pip install muba
+ 1635  pip install numba
+ 1636  pip install pylas
+ 1637  pip install lazrs
+ 1638  pip install appmode
+ 1639  pip install pythreejs
+ 1640  pip install ipython
+ 1641  pip ipython-V
+ 1642  pip ipython -v
+ 1643  pip ipython -version
+ 1644  pip search ipython
+ 1645  pip freeze | grep ipython
+ 1646  pip freeze | grep notebook
+ 1647  pip freeze | grep ipywidgets
+ 1648  pip freeze | grep matplotlib
+ 1649  pip freeze | grep scipy
+ 1650  pip install open3d
+ 1651  pip install pyvista
+ 1652  pip install pytest
+ 1653  python
+ 1654  pip freeze | grep open3d
+ 1655  jupyter notebook
+ 1656  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1657  pip install pymesh
+ 1658  pip install pymesh2
+ 1659  pip install meshio
+ 1660  docker run -it pymesh/pymesh
+ 1661  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1662  /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/python3 /home/raouf/Documents/UM/SEM6/FYP_3D/practical/Random_Geometric_Sampling/Unorganized.py
+ 1663  history
+ 1664  tracker reset --hard
+ 1665  source /home/raouf/Documents/UM/SEM5/FYP/MLRegistration/Doc/Codes/Facial_landmark_detection_of_2D_RGB_image_using_dlib/facial_landmark_py3/bin/activate
+ 1666  pip install seaborne
+ 1667  python3
+ 1668  pip install seaborn
+ 1669  matlab
+ 1670  htop
+ 1671  jupyter notebook
+ 1672  nmcli device wifi show-password
+ 1673  htop
+ 1674  history
+ 1675  history | grep tracker
+ 1676  tracker reset --hard
+ 1677  sudo chmod -R a+w ./Mind\ map\ of\ litreture\ survey.svg 
+ 1678  snap connect gimp:removable-media :removable-media
+ 1679  snap connect drawio:removable-media :removable-media
+ 1680  sudo apt update
+ 1681  sudo aot-get install -y flowblade
+ 1682  sudo apt-get install -y flowblade
+ 1683  flowblade
+ 1684  geddit CmakeLists.txt
+ 1685  gedit CmakeLists.txt
+ 1686  cd include/SnakeGameC++/
+ 1687  gedit publicHeaders.h
+ 1688  cmake ..
+ 1689  ls 
+ 1690  ls -la
+ 1691  cd ..
+ 1692  cd bu
+ 1693  cd build
+ 1694  ls -la
+ 1695  cd Docs/
+ 1696  cd sample_cmake-master/
+ 1697  cd build/
+ 1698  cmake ..
+ 1699  make
+ 1700  make -VERBOSE=1
+ 1701  ls -la
+ 1702  cat Makefile 
+ 1703  cat Makefile | grep g++
+ 1704  cat Makefile | grep g
+ 1705  cat Makefile | grep gcc
+ 1706  cat Makefile | grep target
+ 1707  cat Makefile
+ 1708  all: hello
+ 1709  CC=g++
+ 1710  CC
+ 1711  $(CC)
+ 1712  $CC
+ 1713  CC=ls
+ 1714  $CC
+ 1715  CC='ls'
+ 1716  $CC
+ 1717  $(CC)
+ 1718  g++ -help
+ 1719  g++ -h
+ 1720  g++
+ 1721  g++ help
+ 1722  gcc -help
+ 1723  cwd
+ 1724  cd
+ 1725  pwd
+ 1726  cd ~/Documents/Projects/SnakeGameC++/Docs/sample_cmake-master/build
+ 1727  pwd
+ 1728  history | grp tracker
+ 1729  history | grep tracker
+ 1730  tracker reset --hard
+ 1731  cd /home/raouf/Documents/Projects/SnakeGameC++/Docs/sample_cmake-master/build
+ 1732  ls -la
+ 1733  ./binary 
+ 1734  ./binary 1
+ 1735  ./binary 1 2 3
+ 1736  oowriter
+ 1737  sudo apt install oowriter
+ 1738  swriter
+ 1739  writer
+ 1740  writer -convert to pdf
+ 1741  sudo apt install unoconv
+ 1742  ls -la
+ 1743  cd Desktop/
+ 1744  unoconv N119.doc 
+ 1745  xdg-open N119.pdf 
+ 1746  htop
+ 1747  pip install re
+ 1748  pip install urllib2
+ 1749  pip install scrapy
+ 1750  pip install urlparse
+ 1751  pip install urllib.parse
+ 1752  pip install python3-tools
+ 1753  python3
+ 1754  pip install wget
+ 1755  wget -d --user-agent="Mozilla/5.0 (Windows NT x.y; rv:10.0) Gecko/20100101 Firefox/10.0" http://example.server/report.php
+ 1756  pip install requests
+ 1757  pip install jupyter_contrib_nbextensions
+ 1758  jupyter contrib nbextension install --user
+ 1759  pip install tabulate
+ 1760  gedit PDFClass.py
+ 1761  code PDFClass.py 
+ 1762  pip install urllib
+ 1763  pip install beautifulsoup4
+ 1764  jupyter notebook
+ 1765  gh repo clone snobu/destreamer
+ 1766  sudo apt install aria2
+ 1767  sudo apt install ffmpeg
+ 1768  sudo apt update
+ 1769  sudo apt upgrade
+ 1770  npm install
+ 1771  npm audit fix
+ 1772  ./destreamer.sh 
+ 1773  sudo apt install nodejs
+ 1774  destreamer.cmd -i "https://web.microsoftstream.com/video/47c8266b-37cc-49fc-8d1d-dacf18dcbf70"
+ 1775  npm run build
+ 1776  destreamer.cmd -i "https://web.microsoftstream.com/video/47c8266b-37cc-49fc-8d1d-dacf18dcbf70"
+ 1777  ./destreamer.sh 
+ 1778  ./destreamer.sh https://web.microsoftstream.com/video/47c8266b-37cc-49fc-8d1d-dacf18dcbf70
+ 1779  ./destreamer.sh i-'https://web.microsoftstream.com/video/47c8266b-37cc-49fc-8d1d-dacf18dcbf70'
+ 1780  ./destreamer.sh i- 'https://web.microsoftstream.com/video/47c8266b-37cc-49fc-8d1d-dacf18dcbf70'
+ 1781  ./destreamer.sh -i 'https://web.microsoftstream.com/video/47c8266b-37cc-49fc-8d1d-dacf18dcbf70'
+ 1782  ./destreamer.sh -f "/media/raouf/UBUNTU 20_0/UM Archive/SEM7/Anologue Electronics/Videos/listOfVids.txt" -o "/media/raouf/UBUNTU 20_0/UM Archive/SEM7/Anologue Electronics/Videos/"
+ 1783  sudo apt-get install ruby-full build-essential zlib1g-dev
+ 1784  echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+ 1785  echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+ 1786  echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+ 1787  source ~/.bashrc
+ 1788  gem install jekyll bundler
+ 1789  git clone https://github.com/Abdolraouf-KIE/Abdolraouf-KIE.github.io.git
+ 1790  pwd
+ 1791  cd /media/raouf/UBUNTU 20_0/Projects/Portfolio_github
+ 1792  ls
+ 1793  cd /media/raouf/UBUNTU 20_0/Projects/Portfolio_github
+ 1794  cd "/media/raouf/UBUNTU 20_0/Projects/Portfolio_github"
+ 1795  git clone https://github.com/Abdolraouf-KIE/Abdolraouf-KIE.github.io.git
+ 1796  pio --help
+ 1797  geddit 
+ 1798  geddit Notes.md
+ 1799  gedit Notes.md
+ 1800  code .
+ 1801  sudo apt update
+ 1802  sudo apt install codeblocks
+ 1803  sudo apt install freeglut3-dev
+ 1804  sudo apt upgrade
+ 1805  $(#glut)
+ 1806  asd
+ 1807  $(glut)
+ 1808  (#glut)
+ 1809  asd adsad
+ 1810  )
+ 1811  #glut
+ 1812  sudo apt search glut
+ 1813  history
+ 1814  sudo apt install g++ freeglut3 freeglut3-dev
+ 1815  sudo apt install build-essential libgl1-mesa-dev
+ 1816  sudo apt install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev  # some libraries
+ 1817  glxinfo | grep OpenGL
+ 1818  sudo apt install mesa-utils
+ 1819  glxinfo | grep OpenGL
+ 1820  xdg-open /usr/share/codeblocks/templates
+ 1821  cd /usr/share/codeblocks/templates
+ 1822  gedit freeglut.cbp
+ 1823  sudo gedit freeglut.cbp
+ 1824  cd wizard/
+ 1825  sudo cp -R ./glut ./freeglut
+ 1826  ls usb
+ 1827  lsusb
+ 1828  gedit testing.txt
+ 1829  file-roller
+ 1830  file-roller freeglut-3.2.1.tar.gz 
+ 1831  sudo file-roller freeglut-3.2.1.tar.gz 
+ 1832  cd /usr/codeblocks/templates/wizard/glut
+ 1833  cd /usr/codeblocks/templates/wizard
+ 1834  cd /usr/codeblocks
+ 1835  cd /usr/codeblock
+ 1836  sudo apt-get update
+ 1837  sudo apt update
+ 1838  sudo apt install unison-gtk
+ 1839  unison /home/raouf/Documents/Projects /media/raouf/UBUNTU 20_0/Projects
+ 1840  unison
+ 1841  cd /usr/share/codeblocks/templates/wizard/
+ 1842  ls -la
+ 1843  ls -la | grep freeglut
+ 1844  cd freeglut/
+ 1845  sudo geddit wizard.script 
+ 1846  sudo gedit wizard.script 
+ 1847  sudo gedit /usr/share/codeblocks/templates/wizard/config.script 
+ 1848  cd /usr/share/codeblocks/templates/wizard/freeglut
+ 1849  xdg-open
+ 1850  xdg-open .
+ 1851  unp
+ 1852  file-roller
+ 1853  htop
+ 1854  unison
+ 1855  sudo apt install pavucontrol
+ 1856  sudo nano /lib/systemd/system/bluetooth.service
+ 1857  htop
+ 1858  sudo systemctl daemon-reload 
+ 1859  sudo systemctl restart bluetooth  
+ 1860  bluetoothctl info
+ 1861  bluetoothctl
+ 1862  sudo apt install libnotify-dev
+ 1863  sudo apt-get install libglib2.0-*
+ 1864  sudo apt-get install libglib2.0-dev
+ 1865  sudo apt update
+ 1866  sudo apt-get install libglib2.0-dev
+ 1867  sudo apt upgrade
+ 1868  apt-file search gdk-pixbuf/gdk-pixbuf.h
+ 1869  apt search gdk-pixbuf/gdk-pixbuf.h
+ 1870  sudo apt install apt-file
+ 1871  apt search gdk-pixbuf/gdk-pixbuf.h
+ 1872  apt-file search gdk-pixbuf/gdk-pixbuf.h
+ 1873  apt-file update
+ 1874  sudo apt-get install libgdk-pixbuf2.0-dev
+ 1875  sudo ln -s /usr/include/gdk-pixbuf-2.0/gdk-pixbuf /usr/include/gtk-2.0/gdk-pixbuf
+ 1876  sudo apt search libgtk2.0-dev
+ 1877  sudo apt install libgtk2.0-dev
+ 1878  apt-get install libgtkmm-3.0-dev
+ 1879  sudo apt-get install libgtkmm-3.0-dev
+ 1880  g++ main.cpp -o simple `pkg-config gtkmm-4.0 --cflags --libs`
+ 1881  g++ main.cc -o simple `pkg-config gtkmm-4.0 --cflags --libs`
+ 1882  g++
+ 1883  sudo apt install libgtkmm-3.0-dev
+ 1884  sudo apt install libgstreamermm-1.0-dev
+ 1885  sudo apt install libgtkmm-3.0-doc
+ 1886  sudo apt install libgstreamermm-1.0-doc
+ 1887  sudo apt install devhelp
+ 1888  yelp help:gnome-devel-demos
+ 1889  yelp
+ 1890  yelp help:gnome-devel
+ 1891  g++ main.cc -o simple `pkg-config gtkmm-4.0 --cflags --libs`
+ 1892  g++ simple.cc -o simple `pkg-config gtkmm-4.0 --cflags --libs`
+ 1893  sudo apt search libgtkmm-3.0-dev
+ 1894  sudo apt-get install libgtkmm-3.0-dev
+ 1895  gedit base.cc
+ 1896  g++ base.cc -o base `pkg-config gtkmm-3.0 --cflags --libs`
+ 1897  ./base
+ 1898  cd ..
+ 1899  ls
+ 1900  cd ..
+ 1901  cd SnakeGame/
+ 1902  g++ main.cpp -o main 
+ 1903  g++ -c -Wall main.cbp
+ 1904  g++ -c -Wall main.cpp
+ 1905  g++ -c -Wall game.h
+ 1906  g++ -c -Wall game.cpp
+ 1907  g++ -c -Wall main.cpp
+ 1908  g++ -c -Wall game.h -o game.o
+ 1909  g++ -c -Wall game.cpp -o game.o
+ 1910  g++ -c -Wall main.cpp -o main.o
+ 1911  gcc --version
+ 1912  clear
+ 1913  make main -lglut -lGLU -lGL
+ 1914  g++ main.cpp -lglut -lGLU -lGL
+ 1915  g++ main.cpp -o main.o -lglut -lGLU -lGL
+ 1916  g++ game.h -o gameh.o -lglut -lGLU -lGL
+ 1917  ls -la
+ 1918  g++ game.h -o gameh.o
+ 1919  g++ game.cpp -o game.o -lglut -lGLU -lGL
+ 1920  g++ game.cpp -o game.o-lGLU -lGL
+ 1921  g++ game.cpp -o game.o -lGLU -lGL
+ 1922  g++ game.cpp -o game.o -lGL
+ 1923  g++ game.cpp -o game.o
+ 1924  g++ game.cpp -o game.o -lGL
+ 1925  nano demo.c
+ 1926  fg
+ 1927  cc demo.c -odemo
+ 1928  ,.dem
+ 1929  ./demo 
+ 1930  make demo
+ 1931  ./demo
+ 1932  make demo
+ 1933  clear
+ 1934  gedit demo2.c
+ 1935  make demo2
+ 1936  gcc -help
+ 1937  gcc -h
+ 1938  gcc
+ 1939  ls -la /usr/local/lib
+ 1940  ls -la /usr/local/lib | greb lmy
+ 1941  ls -la /usr/local/lib | grep lmy
+ 1942  ls -la /usr/local/lib | grep python
+ 1943  ls -la /usr/local/lib | grep gl
+ 1944  ls -la /usr/local/lib | grep -gl
+ 1945  ls -la /usr/local/lib | grep gl
+ 1946  ls -la /usr/local/lib
+ 1947  g++ -c game.h -o gameh.o
+ 1948  g++ -c game.cpp -o game.o
+ 1949  g++ -c main.cpp game.o gameh.o -o main.o
+ 1950  gedit testingOpenGL.cpp
+ 1951  g
+ 1952  g++ -lglut -lGL -lGLU -lGLEW testingOpenGL.cpp -o example
+ 1953  g++ -lglut -lGL -lGLU -lGLEW -testingOpenGL.cpp -o example.o
+ 1954  g++ -lglut -lGL -lGLU -lGLEW testingOpenGL.cpp -o example.o
+ 1955  g++ testingOpenGL-lglut -lGL -lGLU -lGLEW -o example.o
+ 1956  g++ testingOpenGL -lglut -lGL -lGLU -lGLEW -o example.o
+ 1957  g++ testingOpenGL.cpp -lglut -lGL -lGLU -lGLEW -o example.o
+ 1958  ./example.o 
+ 1959  clear
+ 1960  g++ main.cppgame.o gameh.o -lglut -lGL -lGLU -lGLEW -o example.o
+ 1961  g++ main.cpp game.o gameh.o -lglut -lGL -lGLU -lGLEW -o example2.o
+ 1962  ./demo
+ 1963  g++ gtkmmTestingLinux.cc -o gtkmmtesting `pkg-config gtkmm-4.0 --cflags --libs`
+ 1964  g++ gtkmmTestingLinux.cc -o gtkmmtesting `pkg-config gtkmm-3 --cflags --libs`
+ 1965  sudo apt-get install libgtkmm-3.0-dev
+ 1966  cd gtkmmTesting/
+ 1967  gedit // copied from https://developer.gnome.org/gtkmm-tutorial/stable/sec-helloworld.html.en
+ 1968  // this source code is from GNU FDLv1.2-or-later licensed documentation by Murray Cumming https://developer.gnome.org/gtkmm-tutorial/stable/index-info.html.en
+ 1969  #include <gtkmm.h>
+ 1970  int main(int argc, char *argv[]){
+ 1971  auto app = Gtk::Application::create(argc, argv, "org.gtkmm.examples.base");
+ 1972  Gtk::Window window;
+ 1973  window.set_default_size(200, 200);
+ 1974  return app->run(window);
+ 1975  gedit base.cc
+ 1976  g++ base.cc -o base.o `pkg-config gtkmm-3.0 --cflags --libs`
+ 1977  ./base.o 
+ 1978  gedit WORKING
+ 1979  gedit base2.cc
+ 1980  g++ base2.cc -o base2.o `pkg-config gtkmm-3.0 --cflags --libs`
+ 1981  xdg-open
+ 1982  xdg-open .
+ 1983  gedit helloworld.cc
+ 1984  gedit main.cc
+ 1985  pkg-config gtkmm-3.0 --libs
+ 1986  ./SnakeGame 
+ 1987  clear
+ 1988  code .
+ 1989  /usr/bin/g++
+ 1990  code .
+ 1991  pkg-config gtkmm-3 --cflags
+ 1992  pkg-config gtkmm-3.0 --cflags
+ 1993  {workspaceFolder}
+ 1994  ${workspaceFolder}
+ 1995  ${workspaceFolder}/*.cpp
+ 1996  code .
+ 1997  g++ -c game.cpp -o game -lgtkmm-3.0 -latkmm-1.6 -lgdkmm-3.0 -lgiomm-2.4 -lpangomm-1.4 -lglibmm-2.4 -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -lharfbuzz -latk-1.0 -lcairo-gobject -lgio-2.0 -lcairomm-1.0 -lcairo -lsigc-2.0 -lgdk_pixbuf-2.0 -lgobject-2.0 -lglib-2.0 
+ 1998  g++ -c game.cpp -o game.o `pkg-config gtkmm-3.0 --cflags`
+ 1999  g++ -c game.cpp -o game.o -pthread -I/usr/include/gtkmm-3.0 -I/usr/lib/x86_64-linux-gnu/gtkmm-3.0/include -I/usr/include/atkmm-1.6 -I/usr/include/gtk-3.0/unix-print -I/usr/include/gdkmm-3.0 -I/usr/lib/x86_64-linux-gnu/gdkmm-3.0/include -I/usr/include/giomm-2.4 -I/usr/lib/x86_64-linux-gnu/giomm-2.4/include -I/usr/include/pangomm-1.4 -I/usr/lib/x86_64-linux-gnu/pangomm-1.4/include -I/usr/include/glibmm-2.4 -I/usr/lib/x86_64-linux-gnu/glibmm-2.4/include -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gtk-3.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/fribidi -I/usr/include/harfbuzz -I/usr/include/atk-1.0 -I/usr/include/cairo -I/usr/include/cairomm-1.0 -I/usr/lib/x86_64-linux-gnu/cairomm-1.0/include -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/sigc++-2.0 -I/usr/lib/x86_64-linux-gnu/sigc++-2.0/include -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include
+ 2000  cd TestingVSCode/
+ 2001  g++ -o output main game `pkg-config gtkmm-3.0 --libs`
+ 2002  g++ -o output main game `pkg-config gtkmm-3.0 --libs` `pkg-config opengl --libs`
+ 2003  g++ -o output main game `pkg-config gtkmm-3.0 --libs` -lglut -lGL -lGLU -lGLEW
+ 2004  ./output 
+ 2005  history
+ 2006  pkg-config --list-all
+ 2007  history > log1_codeBash.txt
